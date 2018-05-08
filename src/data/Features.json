@@ -1,0 +1,27 @@
+[
+  {
+    "image": "computer",
+    "title": "Flat Design",
+    "subtitle": "Loren Ipsum dolor sit amet, consectetur adipcing elit. Suspedisse fringilla."
+  },{
+    "image": "target",
+    "title": "Marketable",
+    "subtitle": "Loren Ipsum dolor sit amet, consectetur adipcing elit. Suspedisse fringilla."
+  },{
+    "image": "photo",
+    "title": "Edit Photos",
+    "subtitle": "Loren Ipsum dolor sit amet, consectetur adipcing elit. Suspedisse fringilla."
+  },{
+    "image": "colors",
+    "title": "Edit Colors",
+    "subtitle": "Loren Ipsum dolor sit amet, consectetur adipcing elit. Suspedisse fringilla."
+  },{
+    "image": "person",
+    "title": "User Friendly",
+    "subtitle": "Loren Ipsum dolor sit amet, consectetur adipcing elit. Suspedisse fringilla."
+  },{
+    "image": "gear",
+    "title": "100% Editable",
+    "subtitle": "Loren Ipsum dolor sit amet, consectetur adipcing elit. Suspedisse fringilla."
+  }
+]
