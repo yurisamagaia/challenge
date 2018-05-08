@@ -22,7 +22,7 @@ class Plans extends Component {
             {
               JsonPlans.map(({ title, price, cents, features }, i) => {
                 return (
-                  <Col md="3" className={i === 2 ? 'plan-box-ex' : 'plan-box'} key={i}>
+                  <Col md="3" className={title === 'Deluxe' ? 'plan-box-ex' : 'plan-box'} key={i}>
                     <div className="plan-box-price">
                       <h4>{title}</h4>
                       <div>
